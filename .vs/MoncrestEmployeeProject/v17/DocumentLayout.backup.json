@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\repository\\service\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\repository\\service\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\repository\\service\\employeenetworkipsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\repository\\service\\employeenetworkipsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\repository\\service\\employeedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\repository\\service\\employeedetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\repository\\interface\\iemployeenetworkips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\repository\\interface\\iemployeenetworkips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\repository\\interface\\iemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\repository\\interface\\iemployeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\repository\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\repository\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\updateemployeenetworkipsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\updateemployeenetworkipsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\updateemployeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\updateemployeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\employeenetworkipsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\employeenetworkipsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\createemployeenetworkipsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\createemployeenetworkipsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\dto\\createemployeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\dto\\createemployeedetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\domain\\employeenetworkips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\domain\\employeenetworkips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\domain\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\domain\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\modules\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\modules\\domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\controllers\\employeenetworkipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\controllers\\employeenetworkipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\controllers\\employeedetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\controllers\\employeedetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Migrations\\20250206093231_Initial-Statge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MoncrestEmployeeProject\\Migrations\\20250206093231_Initial-Statge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|c:\\project\\moncrestassignmentproject\\moncrestemployeeproject\\moncrestemployeeproject\\migrations\\20250207110852_initial-stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{850A078C-DD0E-4934-B7A6-F7D141A836C8}|MoncrestEmployeeProject\\MoncrestEmployeeProject.csproj|solutionrelative:moncrestemployeeproject\\migrations\\20250207110852_initial-stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDetailRepository.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Service\\EmployeeDetailRepository.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Repository\\Service\\EmployeeDetailRepository.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Service\\EmployeeDetailRepository.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Repository\\Service\\EmployeeDetailRepository.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:51:16.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250207110852_Initial-Stage.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Migrations\\20250207110852_Initial-Stage.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Migrations\\20250207110852_Initial-Stage.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Migrations\\20250207110852_Initial-Stage.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Migrations\\20250207110852_Initial-Stage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T11:08:52.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Service\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Repository\\Service\\EmployeeRepository.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Service\\EmployeeRepository.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Repository\\Service\\EmployeeRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwIUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T12:32:38.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeNetworkIpsController.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\EmployeeNetworkIpsController.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Controllers\\EmployeeNetworkIpsController.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\EmployeeNetworkIpsController.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Controllers\\EmployeeNetworkIpsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:59:07.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeNetworkIpsRepository.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Service\\EmployeeNetworkIpsRepository.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Repository\\Service\\EmployeeNetworkIpsRepository.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Service\\EmployeeNetworkIpsRepository.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Repository\\Service\\EmployeeNetworkIpsRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAxwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:51:56.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeNetworkIps.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeNetworkIps.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeNetworkIps.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeNetworkIps.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeNetworkIps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:51:09.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateEmployeeNetworkIpsDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeNetworkIpsDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeNetworkIpsDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeNetworkIpsDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeNetworkIpsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:34:46.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateEmployeeNetworkIpsDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeNetworkIpsDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeNetworkIpsDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeNetworkIpsDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeNetworkIpsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:31:03.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeNetworkIpsDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\EmployeeNetworkIpsDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\EmployeeNetworkIpsDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\EmployeeNetworkIpsDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\EmployeeNetworkIpsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:29:57.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeNetworkIps.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Domain\\EmployeeNetworkIps.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Domain\\EmployeeNetworkIps.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Domain\\EmployeeNetworkIps.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Domain\\EmployeeNetworkIps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:29:11.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250206093231_Initial-Statge.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Migrations\\20250206093231_Initial-Statge.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Migrations\\20250206093231_Initial-Statge.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Migrations\\20250206093231_Initial-Statge.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Migrations\\20250206093231_Initial-Statge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T09:32:32.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T19:35:48.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeDetailController.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\EmployeeDetailController.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Controllers\\EmployeeDetailController.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\EmployeeDetailController.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Controllers\\EmployeeDetailController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:38:12.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:32:10.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeDetails.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeDetails.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeDetails.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeDetails.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Repository\\Interface\\IEmployeeDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:27:39.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Repository\\Interface\\IEmployee.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Repository\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Repository\\Interface\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:24:35.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeeDetailDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeDetailDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeDetailDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeDetailDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployeeDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:20:41.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEmployee.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployee.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployee.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployee.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\UpdateEmployee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:20:00.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEmployeeDetailDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDetailDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDetailDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDetailDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:18:36.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:17:42.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Program.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Program.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Program.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:13:04.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\appsettings.json",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\appsettings.json",
+              "RelativeToolTip": "MoncrestEmployeeProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T06:12:01.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:07:37.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDetailsDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDetailsDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDetailsDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDetailsDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:02:23.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Dto\\EmployeeDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:02:06.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDetail.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Domain\\EmployeeDetail.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Domain\\EmployeeDetail.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Domain\\EmployeeDetail.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Domain\\EmployeeDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:58:40.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Domain\\Employee.cs",
+              "RelativeDocumentMoniker": "MoncrestEmployeeProject\\Modules\\Domain\\Employee.cs",
+              "ToolTip": "C:\\project\\MoncrestAssignmentProject\\MoncrestEmployeeProject\\MoncrestEmployeeProject\\Modules\\Domain\\Employee.cs",
+              "RelativeToolTip": "MoncrestEmployeeProject\\Modules\\Domain\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:58:25.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
